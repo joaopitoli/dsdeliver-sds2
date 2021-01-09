@@ -24,7 +24,6 @@ function ProductCard({ product, onSelectProduct, isSelected }: Props) {
                 className="order-card-image"
                 alt={product.name}
             />
-            <h3 className="order-card-price"></h3>
             {formatPrice(product.price)}
             <div className="order-card-description">
                 <h3>Descrição</h3>
