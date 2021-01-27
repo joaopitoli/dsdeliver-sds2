@@ -6,14 +6,14 @@ import { ReactComponent as InstagramIcon } from './instagram.svg';
 function Footer() {
     return (
         <footer className="main-footer">
-            App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
+            App desenvolvido por João Pitoli durante a 2ª ed. do evento Semana DevSuperior
             <div className="footer-icons">
 
                 <a href="https://youtube.com.br" target="_new">
                     <YoutubeIcon />
                 </a>
 
-                <a href="https://linkedin.com.br" target="_new">
+                <a href="https://www.linkedin.com/in/joao-paulo-oliveira-pitoli/" target="_new">
                     <LinkedinIcon />
                 </a>
 
